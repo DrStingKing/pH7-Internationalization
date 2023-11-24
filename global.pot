@@ -22,11 +22,11 @@ msgid "This cron has already been executed."
 msgstr ""
 
 #: _protected/app/includes/classes/ProfileBaseController.php:115
-msgid "Whoops! \"%0%\" profile is only visible to members. Please <a href=\"%1%\">login</a> or <a href=\"%2%\">register</a> to see this profile."
+msgid "Whoops! \"%0%\" Bara meðlimir geta skoðað prófíl. Please <a href=\"%1%\">login</a> or <a href=\"%2%\">register</a> to see this profile."
 msgstr ""
 
 #: _protected/app/includes/classes/ProfileBaseController.php:118
-msgid "Whoops! \"%0%\" profile is not available to you."
+msgid "Whoops! \"%0%\" Þessi prófæll er ekki fyrir þig að sjá."
 msgstr ""
 
 #: _protected/app/includes/classes/ProfileBaseController.php:153
@@ -34,23 +34,23 @@ msgid "Meet <b>%0%</b> near here!"
 msgstr ""
 
 #: _protected/app/includes/classes/ProfileBaseController.php:183
-msgid "Register now to message %0%!"
+msgid "Skráðu þig til að senda skilaboð %0%!"
 msgstr ""
 
 #: _protected/app/includes/classes/ProfileBaseController.php:213
-msgid "Register now to talk to %0%."
+msgid "Skráðu þig til að tala við %0%."
 msgstr ""
 
 #: _protected/app/includes/classes/ProfileBaseController.php:244
-msgid "Free Sign up for %site_name% to become friend with %0%."
+msgid "Frí skránig fyrir %site_name% til að geta orðið vinur %0%."
 msgstr ""
 
 #: _protected/app/modules/helloworld/controllers/HomeController.php:29
-msgid "Hello World"
+msgid "Helló Vinir"
 msgstr ""
 
 #: _protected/app/modules/helloworld/controllers/HomeController.php:30
-msgid "This module is just an example to show how easy you can create modules with pH7Builder"
+msgid "Þessi eining er bara dæmi til að sýna hversu auðvelt þú getur búið til einingar með pH7Builder"
 msgstr ""
 
 #: _protected/app/modules/helloworld/controllers/HomeController.php:31
@@ -58,7 +58,7 @@ msgid "hello world, test, developpers, CMS, Dating CMS, CMS Dating, Social CMS, 
 msgstr ""
 
 #: _protected/app/modules/helloworld/controllers/HomeController.php:34
-msgid "Example of a simple module that displays \"Hello World\""
+msgid "Dæmi um einfalda einingu sem sýnir \"Helló Vinir\""
 msgstr ""
 
 #: _protected/app/modules/helloworld/controllers/HomeController.php:35
@@ -66,16 +66,16 @@ msgid "H3 title example"
 msgstr ""
 
 #: _protected/app/modules/helloworld/controllers/HomeController.php:36
-msgid "Hello %0% %1% How are you on this %2%?"
+msgid "Hello %0% %1% Hvernig hefurðu það %2%?"
 msgstr ""
 
 #: _protected/app/modules/helloworld/controllers/SecureController.php:26
 #: _protected/app/modules/helloworld/controllers/SecureController.php:31
-msgid "HTTP Secure Page"
+msgid "HTTP örugg síða"
 msgstr ""
 
 #: _protected/app/modules/helloworld/controllers/SecureController.php:27
-msgid "Simple HTTP Secure Page"
+msgid "Einföld HTTP örugg síða"
 msgstr ""
 
 #: _protected/app/modules/helloworld/controllers/SecureController.php:28
@@ -83,11 +83,11 @@ msgid "secure,CMS,PHP,framework,MVC,page,HTTP"
 msgstr ""
 
 #: _protected/app/modules/helloworld/install/info/in_conclusion.php:19
-msgid "Congrats! The module has been successfully installed."
+msgid"Til hamingju! Einingin hefur verið sett upp."
 msgstr ""
 
 #: _protected/app/modules/helloworld/install/info/in_conclusion.php:20
-msgid "Thank you for using our module!"
+msgid "Þakka þér fyrir að nota eininguna okkar!"
 msgstr ""
 
 #: _protected/app/modules/helloworld/install/info/un_conclusion.php:19
@@ -102,20 +102,20 @@ msgstr ""
 
 #: _protected/app/system/core/assets/ajax/LikeCoreAjax.php:58
 msgid "You and one other have voted for this!"
-msgid_plural "You and %n% other people have voted for this!"
+msgid_plural "Þú og %n% aðrir hafið kosið þetta!"
 msgstr[0] ""
 msgstr[1] ""
 
 #: _protected/app/system/core/assets/ajax/LikeCoreAjax.php:59
-msgid "Congrats! You're the first one!"
+msgid "Til hamingju! Þú ert sá fyrsti!"
 msgstr ""
 
 #: _protected/app/system/core/assets/ajax/RatingCoreAjax.php:60
-msgid "Please <b>register</b> or <b>login</b> to vote."
+msgid "Vinsamlegast <b>Nýskráið ykkur</b> or <b>Skrá inn</b> to vote."
 msgstr ""
 
 #: _protected/app/system/core/assets/ajax/RatingCoreAjax.php:97
-msgid "You can not vote your own profile!"
+msgid "Þú getur ekki kosið þinn eigin prófíl!"
 msgstr ""
 
 #: _protected/app/system/core/assets/ajax/RatingCoreAjax.php:109
@@ -123,23 +123,23 @@ msgid "You have already voted!"
 msgstr ""
 
 #: _protected/app/system/core/assets/ajax/RatingCoreAjax.php:119
-msgid "Votes"
+msgid "Atkvæði"
 msgstr ""
 
 #: _protected/app/system/core/assets/ajax/RatingCoreAjax.php:119
-msgid "Vote"
+msgid "Atkvæði"
 msgstr ""
 
 #: _protected/app/system/core/assets/ajax/RatingCoreAjax.php:120
-msgid "Score: %0% - %2%: %1%"
+msgid "Stig: %0% - %2%: %1%"
 msgstr ""
 
 #: _protected/app/system/core/assets/ajax/ValidateCoreAjax.php:132
-msgid "This Username is available!"
+msgid "Þetta notendanafn er í boði!"
 msgstr ""
 
 #: _protected/app/system/core/assets/ajax/ValidateCoreAjax.php:132
-msgid "Sorry, but this Username is not available."
+msgid "Því miður, en þetta notendanafn er ekki tiltækt."
 msgstr ""
 
 #: _protected/app/system/core/assets/ajax/ValidateCoreAjax.php:151
